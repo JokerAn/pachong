@@ -1,0 +1,44 @@
+{
+  "name": "express",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/an"
+  },
+  "dependencies": {
+    "amqp": "^0.2.6",
+    "amqplib": "^0.5.1",
+    "async": "^2.1.4",
+    "body-parser": "^1.15.2",
+    "bufferhelper": "^0.2.1",
+    "cheerio": "~0.19.0",
+    "config": "^1.24.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "express": "~4.13.4",
+    "fibers": "^1.0.15",
+    "forever": "^0.15.3",
+    "gulp-bower": "0.0.13",
+    "http": "0.0.0",
+    "iconv-lite": "^0.4.15",
+    "jade": "~1.11.0",
+    "kafka-node": "^1.0.7",
+    "log4js": "^1.1.0",
+    "morgan": "~1.7.0",
+    "nightmare": "^2.10.0",
+    "node-amqp": "^1.2.1",
+    "node-phantom": "^0.2.5",
+    "phantom": "^4.0.0",
+    "rabbit.js": "^0.4.4",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1",
+    "serve-favicon": "~2.3.0",
+    "then.js": "0.0.1",
+    "webpage": "^0.3.0"
+  },
+  "devDependencies": {
+    "child_process": "^1.0.2",
+    "querystring": "^0.2.0",
+    "superagent": "^2.3.0"
+  }
+}
